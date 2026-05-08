@@ -78,6 +78,8 @@ experiments/   # Benchmark drivers, configuration, SLURM scripts
 analysis/      # Result analysis and plotting
 ```
 
-## License
+## Citation
 
-Released under the MIT License. See `LICENSE`.
+```
+TODO
+```

@@ -1,6 +1,6 @@
 # Simple KNN-Based Outlier Detection Achieves Robust Clustering
 
-**Authors:** [**Tianle Jiang**](), [**Yufa Zhou**](https://masterzhou1.github.io/)
+**Authors:** [**Tianle Jiang**](https://sites.google.com/view/tianle-jiang/), [**Yufa Zhou**](https://masterzhou1.github.io/)
 
 **Duke University**
 

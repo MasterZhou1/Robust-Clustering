@@ -1,4 +1,4 @@
-# Simple KNN-Based Outlier Detection Achieves Robust Clustering
+# [Simple KNN-Based Outlier Detection Achieves Robust Clustering](https://arxiv.org/abs/2605.07130)
 
 **Authors:** [**Tianle Jiang**](https://sites.google.com/view/tianle-jiang/), [**Yufa Zhou**](https://masterzhou1.github.io/)
 
@@ -14,7 +14,7 @@ In this paper, we prove that—under a practical assumption on cluster sizes—s
 
 Empirically, experiments on real-world datasets show that our method outperforms or matches several more sophisticated algorithms in clustering cost and runtime. These results demonstrate that simple KNN-based heuristics can be surprisingly effective for robust clustering, highlighting new opportunities to bridge techniques from outlier detection and clustering.
 
-
+[Paper Link](https://arxiv.org/abs/2605.07130)
 ---
 
 A Python implementation of robust k-means clustering algorithms that handle outliers, with BLAS-optimized routines and a parallel benchmarking suite.
@@ -81,5 +81,10 @@ analysis/      # Result analysis and plotting
 ## Citation
 
 ```
-TODO
+@article{jiang2026simple,
+  title={Simple KNN-Based Outlier Detection Achieves Robust Clustering},
+  author={Jiang, Tianle and Zhou, Yufa},
+  journal={arXiv preprint arXiv:2605.07130},
+  year={2026}
+}
 ```

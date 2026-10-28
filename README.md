@@ -4,6 +4,7 @@
 
 **Duke University**
 
+**NeurIPS 2026**
 ---
 
 **Abstract**
@@ -85,10 +86,11 @@ analysis/      # Result analysis and plotting
 ## Citation
 
 ```
-@article{jiang2026simple,
-  title={Simple KNN-Based Outlier Detection Achieves Robust Clustering},
-  author={Jiang, Tianle and Zhou, Yufa},
-  journal={arXiv preprint arXiv:2605.07130},
-  year={2026}
+@inproceedings{jiang2026simple,
+title     = {Simple KNN-Based Outlier Detection Achieves Robust Clustering},
+author    = {Jiang, Tianle and Zhou, Yufa},
+booktitle = {The Fortieth Annual Conference on Neural Information Processing Systems},
+year      = {2026},
+url       = {https://openreview.net/forum?id=rGWj7JwpMU}
 }
 ```
